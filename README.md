@@ -2,7 +2,7 @@
 
 # Hi there, I'm Anirudh Kandwal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=M.Tech+Researcher+%40+IIT+Patna;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=M.Tech+Researcher+%40+NIT+Hamirpur;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=01anirudh&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 **M.Tech** at IIT Patna — researching **Sequential Recommendation Systems** with LLMs
-- 🏗️ Building full-stack apps with **React**, **Node.js**, **FastAPI**
+- 🏗️ Building full-stack apps with **React**, **Spring Boot**, **FastAPI**
 - 🤖 Passionate about **AI/ML**, **RAG pipelines**, and **LLM-based agents**
 - 🌍 Portfolio: [anirudh-kandwal.netlify.app](https://main--anirudh-kandwal.netlify.app/)
 - 💻 Daily LeetCoder: [Itachi341](https://leetcode.com/u/Itachi341/)
@@ -29,6 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -38,9 +39,9 @@
 
 ### Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,7 +87,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=01anirudh&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=01anirudh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
