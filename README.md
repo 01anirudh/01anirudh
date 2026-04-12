@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **M.Tech** at NIT Hamirpur — researching **Sequential Recommendation Systems** with LLMs
+- 🎓 **M.Tech** at IIT Patna — researching **Sequential Recommendation Systems** with LLMs
 - 🏗️ Building full-stack apps with **React**, **Spring Boot**, **FastAPI**
 - 🤖 Passionate about **AI/ML**, **RAG pipelines**, and **LLM-based agents**
 - 🌍 Portfolio: [anirudh-kandwal.netlify.app](https://main--anirudh-kandwal.netlify.app/)
