@@ -2,7 +2,7 @@
 
 # Hi there, I'm Anirudh Kandwal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=M.Tech+Researcher+%40+NIT+Hamirpur;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=M.Tech+Researcher+%40+IIT+Patna;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=01anirudh&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
