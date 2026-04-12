@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 **M.Tech** at IIT Patna — researching **Sequential Recommendation Systems** with LLMs
-- 🏗️ Building full-stack apps with **React**, **Spring Boot**, **FastAPI**
+- 🏗️ Building full-stack apps with **React**, **Node.js**, **FastAPI**
 - 🤖 Passionate about **AI/ML**, **RAG pipelines**, and **LLM-based agents**
 - 🌍 Portfolio: [anirudh-kandwal.netlify.app](https://main--anirudh-kandwal.netlify.app/)
 - 💻 Daily LeetCoder: [Itachi341](https://leetcode.com/u/Itachi341/)
@@ -29,7 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -39,9 +38,9 @@
 
 ### Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Tools & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
