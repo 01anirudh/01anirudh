@@ -63,8 +63,7 @@
 | [FitAI](https://github.com/01anirudh/FitAi) | AI-powered fitness microservices app with Keycloak auth | Java, Spring Boot, React, RabbitMQ |
 | [DR Detection CNN](https://github.com/01anirudh/DR-Detection-using-CNN) | Diabetic retinopathy classification with CNNs | Python, TensorFlow |
 | [Sequential Recommendation with Transformers and Mixture-of-Experts](https://github.com/01anirudh/Amazon_Review_Analysis) | Sequential Recommendation with Transformers and Mixture-of-Experts | Python, LLMs, MOE |
-| [Knowledge Distillation in Satellite Imagery]([https://github.com/01anirudh/SkillNet](https://github.com/01anirudh/Segmentation-of-Satelliete-Imagery-with-Knowledge-distillation-on-Unet-Model-)) | 
-Segmentation of Satelliete Imagery with Knowledge distillation on Unet Model | Python, CNN |
+| [Knowledge Distillation in Satellite Imagery](https://github.com/01anirudh/SkillNet](https://github.com/01anirudh/Segmentation-of-Satelliete-Imagery-with-Knowledge-distillation-on-Unet-Model-) | Segmentation of Satelliete Imagery with Knowledge distillation on Unet Model | Python, CNN |
 
 ---
 
