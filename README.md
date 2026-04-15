@@ -59,12 +59,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🤖 FitAI](https://github.com/01anirudh/FitAi) | AI-powered fitness microservices app with Keycloak auth | Java, Spring Boot, React, RabbitMQ |
-| [📅 AI Appointment Scheduler](https://github.com/01anirudh/AI-Powered-Appointment-Scheduler-Assistant) | LLM-driven scheduling assistant | Python, FastAPI, React |
-| [🔍 Forensic RAG Bot](https://github.com/01anirudh/Forensic_Rag_Raft_Bot) | RAG pipeline for forensic document QnA | Python, LangChain, LLM |
-| [🛒 SkillNet](https://github.com/01anirudh/SkillNet) | Full-stack skill-sharing marketplace | MERN Stack |
-| [🌡️ Edge LLM](https://github.com/01anirudh/Edge_LLM) | LLM inference optimized for edge devices | Python, PyTorch |
-| [👁️ DR Detection CNN](https://github.com/01anirudh/DR-Detection-using-CNN) | Diabetic retinopathy classification with CNNs | Python, TensorFlow |
+| [SkillNet](https://github.com/01anirudh/SkillNet) | Full-stack skill-sharing marketplace | MERN Stack |
+| [FitAI](https://github.com/01anirudh/FitAi) | AI-powered fitness microservices app with Keycloak auth | Java, Spring Boot, React, RabbitMQ |
+| [DR Detection CNN](https://github.com/01anirudh/DR-Detection-using-CNN) | Diabetic retinopathy classification with CNNs | Python, TensorFlow |
+| [Sequential Recommendation with Transformers and Mixture-of-Experts](https://github.com/01anirudh/Amazon_Review_Analysis) | Sequential Recommendation with Transformers and Mixture-of-Experts | Python, LLMs, MOE |
+| [Knowledge Distillation in Satellite Imagery]([https://github.com/01anirudh/SkillNet](https://github.com/01anirudh/Segmentation-of-Satelliete-Imagery-with-Knowledge-distillation-on-Unet-Model-)) | Segmentation | Teacher-Student Arcitecture |
 
 ---
 
